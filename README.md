@@ -1,7 +1,6 @@
 # Taller Día 5 – Metodologías Ágiles
 Este repositorio contiene el código del taller integrador del Día 5, donde se aplican **Scrum, Kanban y XP** para construir un sistema que clasifica reseñas de clientes de un hotel.
 
-
 ## Ejecución de proyecto
 
 ### 1. Ejecutar pruebas (TDD)
